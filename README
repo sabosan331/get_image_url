@@ -1,0 +1,11 @@
+# Final Goal
+automatic getting images with annotation.
+
+# Now
+get all image from only one page
+
+# Next
+crawling using downloadRec(url, level)
+
+# run
+node getImg.js
